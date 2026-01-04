@@ -23,15 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar   : "profile.png"
+  name     : "YuZhou Wu"
+  bio      : "MSc Robotics student at the University of Sheffield. Research interests in Vision-Language-Action models, 4D perception, and efficient Transformers."
+  location : "Sheffield, UK"
+  employer : "University of Sheffield"
+  email    : "yuzhouwush@foxmail.com"
+
+  github        : "continuity3"
 
   # Academic websites
   academia         : # URL
